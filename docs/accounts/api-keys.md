@@ -1,10 +1,6 @@
 ---
 title: "API Keys"
 slug: "api-keys"
-excerpt: "Use API keys to integrate with the Sort REST API"
-hidden: false
-createdAt: "Fri Aug 30 2024 15:46:11 GMT+0000 (Coordinated Universal Time)"
-updatedAt: "Fri Aug 30 2024 19:02:07 GMT+0000 (Coordinated Universal Time)"
 ---
 :::info
 This page is for software developers.
