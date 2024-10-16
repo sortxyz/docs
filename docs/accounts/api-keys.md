@@ -30,7 +30,7 @@ Always store API keys in a secure place. The holder of the API key has **full ac
 
 When issuing HTTP requests to the Sort REST API, you'll always set the `x-api-key` request header to your API key. For example, if using `curl` this looks like:
 
-```shell
+```bash
 curl 'https://api.sort.xyz/v2/my/profile' \
   --header 'x-api-key: YOUR_API_KEY' \
   --header 'accept: application/json'

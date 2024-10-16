@@ -11,7 +11,7 @@ We've provided sample commands below to create a read-only user in Postgres. We'
 The commands below should only be used as a guide, please properly test any read-only user added to your database before adding to Sort.
 :::
 
-```
+```sql
 /* How to create a read-only postgres connection */
 
 CREATE ROLE readonly PASSWORD 'SOME_TOUGH_PASSWORD';
