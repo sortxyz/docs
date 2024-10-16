@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Report Issues',
+    title: 'Manage your Data Issues',
     Svg: require('@site/static/img/issues.svg').default,
     to: '/docs/category/issues',
     description: (
