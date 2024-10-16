@@ -1,7 +1,6 @@
 ---
 title: "Labels"
 slug: "labels"
-excerpt: "Categorize your Issues using Labels"
 sidebar_position: 6
 ---
 Labels are useful for categorizing [Issues](/docs/category/issues) and [Change Requests](/docs/category/change-requests). A set of default Labels is provided for each database which you can customize. You can also create your own personalized Labels. One or more Labels can be assigned.

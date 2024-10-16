@@ -1,10 +1,6 @@
 ---
 title: "Creating an Organization"
 slug: "creating-an-organization"
-excerpt: ""
-hidden: false
-createdAt: "Thu Apr 11 2024 21:24:01 GMT+0000 (Coordinated Universal Time)"
-updatedAt: "Thu Apr 11 2024 21:25:30 GMT+0000 (Coordinated Universal Time)"
 ---
 To create your own Sort Organization, first log in to Sort, then head over to the [organization creation page](https://sort.xyz/orgs/new).
 

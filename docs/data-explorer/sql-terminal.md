@@ -1,10 +1,6 @@
 ---
 title: "SQL Terminal"
 slug: "sql-terminal"
-excerpt: ""
-hidden: false
-createdAt: "Fri Feb 09 2024 20:53:20 GMT+0000 (Coordinated Universal Time)"
-updatedAt: "Tue Feb 27 2024 23:52:45 GMT+0000 (Coordinated Universal Time)"
 ---
 Database administrators can enable a SQL terminal for querying a database. Writing SQL to interact with the database is helpful for advanced queries and grouping data. Filters in the Data Explorer can also be used for simple queries (instead of writing SQL).
 
