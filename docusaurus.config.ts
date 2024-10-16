@@ -49,20 +49,37 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true
+    },
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    // image: 'img/docusaurus-social-card.jpg',
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true
+      }
+    },
     navbar: {
       title: 'Sort',
       logo: {
         alt: 'Sort logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
+        href: 'https://sort.xyz',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Docs',
+          label: 'Guides',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'API Reference',
+          href: 'https://api.sort.xyz/docs',
         },
         {
           href: 'https://github.com/sortxyz/docs',
@@ -79,7 +96,15 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/tutorials/quick-start',
+            },
+            {
+              label: 'Guides',
+              to: '/docs',
+            },
+            {
+              label: 'Support',
+              to: '/docs/general/support-and-general-inquiries',
             },
           ],
         },
@@ -106,13 +131,25 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Sort XYZ. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Sort XYZ`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+      additionalLanguages: ['bash'],
     },
   } satisfies Preset.ThemeConfig,
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        indexBlog: false,
+      }),
+    ]
+  ]
 };
 
 export default config;

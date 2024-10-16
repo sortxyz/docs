@@ -1,14 +1,12 @@
 ---
 title: "Sort's Vision and Roadmap"
 slug: "our-vision"
-excerpt: ""
-hidden: false
-createdAt: "Tue Mar 21 2023 16:01:04 GMT+0000 (Coordinated Universal Time)"
-updatedAt: "Fri Aug 16 2024 23:13:42 GMT+0000 (Coordinated Universal Time)"
+sidebar_position: 5
 ---
-### _Sort's long-term vision is to make databases accessible, whether within your organization or the world. We are making it easy to share, collaborate, and build on top of data. We're starting with collaboration, but we're excited to see where we can take this._
 
-# 
+## Vision
+
+Sort's long-term vision is to make databases accessible, whether within your organization or the world. We are making it easy to share, collaborate, and build on top of data. We're starting with collaboration, but we're excited to see where we can take this.
 
 ***
 
