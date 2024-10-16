@@ -1,7 +1,7 @@
 ---
 title: "Neon - Add Database Connection"
-slug: "neon-add-new-database-connection"
-# sidebar_position: 2
+slug: "neon-add-connection"
+sidebar_position: 2
 tags:
   - connection
 ---

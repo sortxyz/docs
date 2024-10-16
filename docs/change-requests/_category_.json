@@ -1,0 +1,8 @@
+{
+  "label": "Change Requests",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Change Requests use the magic of GitHub pull request workflows for database changes. Propose data changes like modifying, adding or removing rows, without any impact to the database until the changes are approved and applied."
+  }
+}

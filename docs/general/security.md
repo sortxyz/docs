@@ -1,10 +1,7 @@
 ---
 title: "Security"
 slug: "security"
-excerpt: ""
-hidden: false
-createdAt: "Tue May 30 2023 19:58:12 GMT+0000 (Coordinated Universal Time)"
-updatedAt: "Sat Aug 31 2024 07:09:27 GMT+0000 (Coordinated Universal Time)"
+sidebar_position: 2
 ---
 ### Certifications
 

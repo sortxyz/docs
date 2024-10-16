@@ -1,0 +1,8 @@
+{
+  "label": "Issues",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Database Issues are used to track improvements, answer questions, report inconsistencies, or brainstorm on how to improve queries. Issues can be labeled and categorized."
+  }
+}
