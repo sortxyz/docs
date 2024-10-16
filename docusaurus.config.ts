@@ -71,6 +71,13 @@ const config: Config = {
           label: 'Guides',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'tutorialSidebar',
+          position: 'left',
+          label: 'API Reference',
+          href: 'https://api.sort.xyz/docs',
+        },
+        {
           href: 'https://github.com/sortxyz/docs',
           label: 'GitHub',
           position: 'right',
