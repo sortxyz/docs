@@ -103,6 +103,10 @@ const config: Config = {
               to: '/docs',
             },
             {
+              label: 'API Reference',
+              to: 'https://api.sort.xyz/docs',
+            },
+            {
               label: 'Support',
               to: '/docs/general/support-and-general-inquiries',
             },
