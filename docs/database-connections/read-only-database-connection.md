@@ -17,9 +17,9 @@ Read-only permissions are enforced by **your database**. These permissions can b
 1. Navigate to Organization -> Settings
 2. Click `Connections` in the left nav
 
-![Organization -> Settings](/img/7072e3b-Screenshot_2024-02-27_at_1.58.48_PM.png)
+![Organization -> Settings](/img/org-settings.png)
 
-3. Click `Edit` on the connection you would like to add the read-only connection to
+3. Click `Edit` on the connection to which you would like to add the read-only connection
 4. Click `Advanced Settings` -> `Enable a SQL terminal via a read-only user`
 
 ![Enable a SQL terminal](/img/87cd10f-Screenshot_2024-02-27_at_2.01.48_PM.png)

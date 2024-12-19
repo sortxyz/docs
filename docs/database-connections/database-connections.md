@@ -5,7 +5,7 @@ sidebar_position: 2
 tags:
   - connection
 ---
-A database connection is a set of credentials and server information used to connect to your database. All data access in Sort is facilitated through database connections you add to your [Organization](/docs/organizations/organizations) settings. Once added, all organization members can query the databases accessible through the database connection.
+A database connection is a set of credentials and server information used to connect to your database. All data access in Sort is facilitated through database connections you add to your [Organization](/docs/organizations/organizations) settings. Once added, all Organization members can query the databases accessible through the database connection.
 
 :::info
 When you add a connection, Sort imports metadata like the names of your databases, schemas, tables and columns - but not any data.
