@@ -6,7 +6,7 @@ sidebar_position: 3
 Change Requests must be reviewed and approved before they can be applied to the database. You can also Approve a Change Request but not Apply it until an ideal maintenance window to make the database changes.
 
 1. After a Change Request has been submitted, it is in the "Review Required" state
-2. Any owner within the organization may review and approve the Change Request
+2. Any owner within the Organization may review and approve the Change Request
 
 ![](/img/14c8fd6-image.png)
 

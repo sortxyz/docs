@@ -4,7 +4,7 @@ slug: "create-a-new-issue"
 description: "How to create an Issue"
 ---
 
-1. Navigate to the database for the Issue (databases are located under [organizations](/docs/organizations/organizations))
+1. Navigate to the database for the Issue (databases are located under [Organizations](/docs/organizations/organizations))
 2. Click `Issues` in the navigation menu
 3. Click the `New Issue` button
 
