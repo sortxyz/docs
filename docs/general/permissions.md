@@ -33,3 +33,11 @@ sidebar_position: 4
 | Edit Change Request Comment           | Comment author | Comment author |
 | Approve Change Request              | Organization member | Organization member |
 | Execute Change Request              | Organization owner | Organization owner |
+
+### Labels
+
+| Action                 | Who |
+| :--------------------- | :---|
+| Create Label | Organization member |
+| Edit Label | Organization member |
+| Delete Label | Organization member |
