@@ -110,6 +110,10 @@ const config: Config = {
               label: 'Support',
               to: '/docs/general/support-and-general-inquiries',
             },
+            {
+              label: 'Trust Center',
+              to: 'https://trust.sort.xyz/',
+            },
           ],
         },
         {
