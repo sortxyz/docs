@@ -27,10 +27,10 @@ Notifications are "fire-and-forget" - If there is a network disruption or simila
 ### Change Request
 
 - created
-- updated
 - closed
 - reopened
 - commented
+- approved
 - execution started
 - execution failed
 - execution succeeded
@@ -38,22 +38,9 @@ Notifications are "fire-and-forget" - If there is a network disruption or simila
 ### Issues
 
 - created
-- updated
 - closed
 - reopened
 - commented
-
-### Connections
-
-- created
-
-### Invitations
-
-- created
-
-### Organization
-
-- created
 
 ## Examples
 
