@@ -26,7 +26,7 @@ GRANT CONNECT ON DATABASE {database_name} TO readonly;
 
 /* START loop database commands */
 
-GRANT USAGE ON SCHEMA public TO readonly;
+GRANT USAGE ON SCHEMA public TO readonly; -- test
 
 -- Grant SELECT on all existing tables in the schema
 GRANT SELECT ON ALL TABLES IN SCHEMA public TO readonly;
